@@ -32,6 +32,10 @@ Multiple SN datasets:
 * https://arxiv.org/abs/1801.08241 (5 high-z SLSN, spectra)
 * https://arxiv.org/abs/1803.04869 (rapid transient LCs from DES, data in plot form only)
 * https://snfactory.lbl.gov/snf/data/index.html (SNF data releases)
+* http://adsabs.harvard.edu/abs/2017ApJ...850...89G (888 Type II spectra)
+* http://adsabs.harvard.edu/abs/2014AJ....148...13R (CANDELS Ia SNe)
+* https://arxiv.org/pdf/1806.03855.pdf (no data but lists a bunch of future sources)
+* https://arxiv.org/abs/1808.02710 (4 GRBs with SNe components)
 
 Other single SN datasets:
 
@@ -78,12 +82,11 @@ Other single SN datasets:
 * SN2002fk - http://adsabs.harvard.edu/abs/2014ApJ...789...89C (spectra)
 * SN2003hx - http://adsabs.harvard.edu/abs/2008MNRAS.389..706M (spectra)
 * SN2003ma - http://adsabs.harvard.edu/abs/2011ApJ...729...88R (spectra)
-* SN2004ab - https://arxiv.org/abs/1711.00628 (photometry + spectra)
 * SN2004dj - http://adsabs.harvard.edu/abs/2011A%26A...527A..61S (spectra)
+* SN2004dj - https://arxiv.org/abs/1808.00283 (radio data)
 * SN2004et - http://adsabs.harvard.edu/abs/2007MNRAS.381..280M, http://adsabs.harvard.edu/abs/2009ApJ...704..306K (spectra)
 * SN2005am - http://adsabs.harvard.edu/abs/2005ApJ...635.1192B (spectra)
 * SN2005at - http://adsabs.harvard.edu/abs/2014A%26A...572A..75K (spectra)
-* SN2005da - https://etd.ohiolink.edu/pg_10?0::NO:10:P10_ETD_SUBID:150302#abstract-files (photometry)
 * SN2005df - http://adsabs.harvard.edu/abs/2015ApJ...806..107D (spectra)
 * SN2005kd - http://adsabs.harvard.edu/abs/2016MNRAS.462.1101D (Radio data)
 * SN2005ke - http://adsabs.harvard.edu/abs/2014A%26A...572A..75K (spectra)
@@ -101,6 +104,7 @@ Other single SN datasets:
 * SN2007uy - http://adsabs.harvard.edu/abs/2013MNRAS.434.2032R (no new photometry)
 * SN2008D - http://www.nature.com/nature/journal/v453/n7194/suppinfo/nature06997.html (X-ray & radio)
 * SN2008cq - In CSP data somewhere?
+* SN2008es - https://arxiv.org/abs/1807.07859 (late-time photometry)
 * SN2008fz - http://adsabs.harvard.edu/abs/2010ApJ...718L.127D (spectra)
 * SN2008in - http://adsabs.harvard.edu/abs/2011ApJ...736...76R (UBVRIJH photometry, data already on OSC?)
 * SN2009dc - http://adsabs.harvard.edu/abs/2009ApJ...707L.118Y (spectra)
@@ -136,34 +140,49 @@ Other single SN datasets:
 * SN2014J - http://adsabs.harvard.edu/abs/2015ApJ...798...39M
 * SN2014J - http://adsabs.harvard.edu/abs/2015MNRAS.451.4104J
 * SN2014J - http://adsabs.harvard.edu/abs/2016MNRAS.457.1000S
+* SN2014L - https://arxiv.org/abs/1806.08477 (photometry)
 * SN2014ad - https://arxiv.org/abs/1801.07046 (photometry)
 * SN2014ad - http://adsabs.harvard.edu/abs/2017MNRAS.469.1897S (Photometry only in plot form)
 * iPTF14atg - http://adsabs.harvard.edu/abs/2015Natur.521..328C (Photometry, but data not in paper)
 * iPTF14gqr - De et al in prep (photometry and spectra)
+* iPTF14hls - https://arxiv.org/abs/1806.10001 (late-time photometry)
+* ASASSN-14dq - https://arxiv.org/abs/1807.07251 (photometry)
+* ASASSN-14lp - https://arxiv.org/abs/1808.00972 (late-time photometry)
 * ASASSN-15no - https://arxiv.org/abs/1801.08318 (photometry)
-* ASASSN-15nx - https://arxiv.org/pdf/1804.00025.pdf (photometry)
+* ASASSN-15nx - https://arxiv.org/abs/1804.00025 (photometry in txt file)
 * SN2015H - http://adsabs.harvard.edu/abs/2016A%26A...589A..89M (Photometry, data not in paper)
 * SN2015J - https://arxiv.org/abs/1711.08655 (photometry, X-ray)
 * SN2015as - https://arxiv.org/abs/1802.06731
+* SN2015ba - https://arxiv.org/abs/1806.05470 (photometry and spectra)
 * SN2015bs - https://arxiv.org/abs/1805.04434 (photometry)
 * SN2015bh - http://arxiv.org/abs/1609.00731 (photometry and spectra)
 * KSN2015k - https://www.nature.com/articles/s41550-018-0423-2
 * iPTF15dtg - http://arxiv.org/abs/1605.02491 (spectra)
+* iPTF15dtg - http://arxiv.org/abs/1806.10000 (late-time photometry)
 * SPIRITS16tn - https://arxiv.org/abs/1803.00574 (photometry and radio)
 * DES16C2nm - https://arxiv.org/abs/1712.04535 (photometry)
+* iPTF16abc - https://arxiv.org/abs/1808.02330 (late-time photometry)
+* iPTF16hgs - https://arxiv.org/abs/1806.10623 (photometry)
+* PS16aqv - https://arxiv.org/abs/1805.07372 (photometry)
 * SN2016X - https://arxiv.org/abs/1801.03167 (photometry)
 * SN2016bkv - https://arxiv.org/abs/1801.00015 (photometry only in plot form)
 * SN2016bkv - https://arxiv.org/abs/1804.06065 (optical/IR photometry)
 * SN2016brx - https://arxiv.org/abs/1805.00010 (minimal photometry and spectra)
 * SN2016jhr - http://adsabs.harvard.edu/abs/2017Natur.550...80J (Photometry in arxiv version)
 * SCP16C03 - https://arxiv.org/abs/1707.04606 (spectra)
+* AT2017be - http://arxiv.org/abs/1807.11676v1 (photometry)
 * SN2017dio - https://arxiv.org/abs/1712.00027 (photometry only in plot form)
 * SN2017egm - https://arxiv.org/abs/1708.00864 (additional photometry)
 * SN2017ein - https://arxiv.org/abs/1803.01050 (photometry)
+* SN2017ein - https://arxiv.org/abs/1806.11288 (photometry)
 * SN2017hcc - https://arxiv.org/abs/1711.07938 (photometry/spectra, but only in plot form)
+* ATLAS17aeu - https://arxiv.org/abs/1807.03681 (photometry)
 * SNHunt151 - https://arxiv.org/abs/1801.03040 (photometry)
 * OGLE14-073 - https://arxiv.org/abs/1804.05791 (bolometric photometry)
 * PS17bdq - http://arxiv.org/abs/1805.00025v1 (metadata)
+* SN2018bsz - https://arxiv.org/abs/1806.10609 (photometry)
+* W0948+0318 - https://arxiv.org/abs/1807.07985 (IR photometry)
+* ASASSN-18bt - https://arxiv.org/abs/1807.11526 (photometry in plot form only)
 
 Spectra to recover that were donated to SuSpect (bad wavelength solutions, etc):
 * 2000E_20000130_3274_7356_00.dat
@@ -206,6 +225,7 @@ SNR catalogs:
 * Chandra SNR catalog - http://hea-www.cfa.harvard.edu/ChandraSNR/
 * GALEX SNR catalog?
 * GRBs (FERMI, GRBs from early 2000s)
+* https://arxiv.org/abs/1806.04280
 
 Online catalogs:
 * No known missing online catalogs at this time.
